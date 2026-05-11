@@ -1,7 +1,4 @@
-pandas
-numpy
-scikit-learn
 streamlit
+pandas
 requests
-beautifulsoup4
-lxml
+numpy
